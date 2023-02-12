@@ -8,4 +8,4 @@ Dans cet article, vous allez apprendre à utiliser MediaElement, le tout nouveau
 - Démonstration avec la lecture d'une vidéo
 
 
-[Lire la suite ici](https://coffeecoding.fr/2022/11/04/resilience-avec-polly-net-partie-1/)
+[Lire la suite ici](https://coffeecoding.fr/2023/02/12/audio-et-video-avec-net-maui-et-mediaelement/)
